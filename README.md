@@ -1,6 +1,15 @@
-# Data Scientist
+# Graduate Student at Virginia Tech
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Languages: Python, Java, C/C++, HTML/CSS, JavaScript, SQL, MATLAB, R
+#### Web Development: React, Node.js, Bootstrap, jQuery, Django, Spring, API Development, Agile, Scrum
+#### Database Management: MySQL, MongoDB
+#### Testing & QA: Selenium, Go Testing Framework
+#### Cloud Technologies:: Google Cloud Platform, Azure
+#### Machine Learning:: ML Algorithms, NLP, TensorFlow, Keras
+#### Big Data:: Hadoop, Spark, Hive
+#### Collaboration Tools: Jira, Confluence
+#### Tools: Git, GitHub, Docker, Kubernetes, CI/CD Pipelines
+#### Data Analysis: Tableau, Power BI, Excel
 
 ## Education						       		
 -	M.Eng., Computer Science | Virginia Tech  (_August 2023 - Present_)	 			        		
@@ -34,9 +43,12 @@ Executed the development of a centralized Blood Bank Management System in Decemb
 
 ### E-Commerce Dashboard
 Executed the development of an E-Commerce Dashboard, utilizing **Python and Dash** for an interactive web interface that facilitates dynamic data exploration. Integrated core components seamlessly to enhance the user experience and enable in-depth analysis of the "E-commerce Customer Behavior and Purchase Dataset" through diverse visualizations. Dockerized and deployed the web application on **Google Cloud Platform** for production, providing a user-friendly web address for easy access to the interactive dashboard. This project underscores proficiency in Python and Dash, coupled with strategic deployment on Google Cloud, resulting in a comprehensive E-Commerce analytics solution that prioritizes user accessibility and operational efficiency.
-[Link to the project][https://dashapp-45qc52lfqa-nn.a.run.app/]
+[Link to the project](https://dashapp-45qc52lfqa-nn.a.run.app/)
 
+### ML Algorithms Blog
 
+Developed an in-depth technical blog utilizing Quarto to delve into the intricacies of major machine learning algorithms. The content spans critical concepts, including probability and random variables, classification methods, regression models, clustering techniques, and anomaly detection. Each algorithm is exhaustively explored, elucidating its theoretical underpinnings, practical applications, and intricacies of implementation. Leveraging Quarto's capabilities, the blog integrates code snippets, visualizations, and interactive elements, enhancing the technical depth and facilitating an immersive learning experience. This project not only highlights proficiency in machine learning algorithms but also underscores a commitment to technical communication excellence through advanced publishing tools like Quarto.
+[Link to the project](https://swethaa-ramesh.github.io/ML_FinalAssignment_CS-5805/)
 
 
 
