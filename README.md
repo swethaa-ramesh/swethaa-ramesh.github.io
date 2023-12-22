@@ -1,15 +1,15 @@
 # Graduate Student at Virginia Tech
 #### Technical Skills
-#### Languages: Python, Java, C/C++, HTML/CSS, JavaScript, SQL, MATLAB, R
-#### Web Development: React, Node.js, Bootstrap, jQuery, Django, Spring, API Development, Agile, Scrum
-#### Database Management: MySQL, MongoDB
-#### Testing & QA: Selenium, Go Testing Framework
-#### Cloud Technologies: Google Cloud Platform, Azure
-#### Machine Learning: ML Algorithms, NLP, TensorFlow, Keras
-#### Big Data: Hadoop, Spark, Hive
-#### Collaboration Tools: Jira, Confluence
-#### Tools: Git, GitHub, Docker, Kubernetes, CI/CD Pipelines
-#### Data Analysis: Tableau, Power BI, Excel
+**Languages: Python, Java, C/C++, HTML/CSS, JavaScript, SQL, MATLAB, R**
+**Web Development: React, Node.js, Bootstrap, jQuery, Django, Spring, API Development, Agile, Scrum**
+**Database Management: MySQL, MongoDB**
+**Testing & QA: Selenium, Go Testing Framework**
+**Cloud Technologies: Google Cloud Platform, Azure**
+**Machine Learning: ML Algorithms, NLP, TensorFlow, Keras**
+**Big Data: Hadoop, Spark, Hive**
+**Collaboration Tools: Jira, Confluence**
+**Tools: Git, GitHub, Docker, Kubernetes, CI/CD Pipelines**
+**Data Analysis: Tableau, Power BI, Excel**
 
 ## Education						       		
 -	M.Eng., Computer Science | Virginia Tech  (_August 2023 - Present_)	 			        		
