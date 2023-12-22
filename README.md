@@ -1,5 +1,5 @@
 # Graduate Student at Virginia Tech
-
+#### Technical Skills
 #### Languages: Python, Java, C/C++, HTML/CSS, JavaScript, SQL, MATLAB, R
 #### Web Development: React, Node.js, Bootstrap, jQuery, Django, Spring, API Development, Agile, Scrum
 #### Database Management: MySQL, MongoDB
