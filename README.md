@@ -28,4 +28,16 @@
 -  Updated test cases promptly for 10+ application changes, incorporating new features and bug fixes.
 -   Conducted 15 rounds of Integration Testing to verify interactions between application components, and executed 50+ unit tests for Go code utilizing the built-in testing framework.
 
+## Projects
+### Blood Bank Management System
+Executed the development of a centralized Blood Bank Management System in December 2023, employing a tech stack that included React for an intuitive user interface, Spring Boot for robust backend functionality, and **Azure Cloud** for secure hosting. The implementation successfully reduced manual efforts by 40%, streamlining the blood donation process and optimizing operational efficiency. The integration of React contributed to a remarkable 30% increase in user satisfaction and engagement. Furthermore, by implementing stringent security measures for HIPAA compliance, the system achieved a substantial 20% reduction in data security risks, ensuring the protection of sensitive health information. This project exemplifies the adept use of cutting-edge technologies to deliver a comprehensive solution that addresses operational challenges, enhances user experiences, and prioritizes data security in the healthcare domain.
+
+### E-Commerce Dashboard
+Executed the development of an E-Commerce Dashboard, utilizing **Python and Dash** for an interactive web interface that facilitates dynamic data exploration. Integrated core components seamlessly to enhance the user experience and enable in-depth analysis of the "E-commerce Customer Behavior and Purchase Dataset" through diverse visualizations. Dockerized and deployed the web application on **Google Cloud Platform** for production, providing a user-friendly web address for easy access to the interactive dashboard. This project underscores proficiency in Python and Dash, coupled with strategic deployment on Google Cloud, resulting in a comprehensive E-Commerce analytics solution that prioritizes user accessibility and operational efficiency.
+[https://dashapp-45qc52lfqa-nn.a.run.app/]
+
+
+
+
+
 
