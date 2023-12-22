@@ -4,9 +4,9 @@
 #### Web Development: React, Node.js, Bootstrap, jQuery, Django, Spring, API Development, Agile, Scrum
 #### Database Management: MySQL, MongoDB
 #### Testing & QA: Selenium, Go Testing Framework
-#### Cloud Technologies:: Google Cloud Platform, Azure
-#### Machine Learning:: ML Algorithms, NLP, TensorFlow, Keras
-#### Big Data:: Hadoop, Spark, Hive
+#### Cloud Technologies: Google Cloud Platform, Azure
+#### Machine Learning: ML Algorithms, NLP, TensorFlow, Keras
+#### Big Data: Hadoop, Spark, Hive
 #### Collaboration Tools: Jira, Confluence
 #### Tools: Git, GitHub, Docker, Kubernetes, CI/CD Pipelines
 #### Data Analysis: Tableau, Power BI, Excel
