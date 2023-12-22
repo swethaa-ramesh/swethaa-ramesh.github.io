@@ -34,7 +34,7 @@ Executed the development of a centralized Blood Bank Management System in Decemb
 
 ### E-Commerce Dashboard
 Executed the development of an E-Commerce Dashboard, utilizing **Python and Dash** for an interactive web interface that facilitates dynamic data exploration. Integrated core components seamlessly to enhance the user experience and enable in-depth analysis of the "E-commerce Customer Behavior and Purchase Dataset" through diverse visualizations. Dockerized and deployed the web application on **Google Cloud Platform** for production, providing a user-friendly web address for easy access to the interactive dashboard. This project underscores proficiency in Python and Dash, coupled with strategic deployment on Google Cloud, resulting in a comprehensive E-Commerce analytics solution that prioritizes user accessibility and operational efficiency.
-[https://dashapp-45qc52lfqa-nn.a.run.app/]
+[Link to the project][https://dashapp-45qc52lfqa-nn.a.run.app/]
 
 
 
